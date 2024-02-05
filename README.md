@@ -71,7 +71,7 @@ let raghav = {
 <p>
   
    [![Linkedin Badge](https://img.shields.io/badge/-raghavShankar-white?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/raghavshankar99/)](https://www.linkedin.com/in/raghavshankar99/) 
-   [![Gmail Badge](https://img.shields.io/badge/-Contact-white?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:v.raghavshankar99@gmail.com)](mailto:v.raghavshankar99@gmail.com)
+   [![Gmail Badge](https://img.shields.io/badge/-Contact-white?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:raghavshankar99@gmail.com)](mailto:raghavshankar99@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@s.h.i.n.g.u-white?style=for-the-badge&logo=instagram&logoColor=black&link=https://instagram.com/s.h.i.n.g.u/)](https://instagram.com/s.h.i.n.g.u) 
    [![Resume Badge](https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=readme&logoColor=black&link=https://bit.ly/raghavShankar)](https://bit.ly/raghavShankar)
    [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=producthunt&logoColor=black&link=https://shingu99.github.io/Portfolio/)](https://shingu99.github.io/Portfolio/)
