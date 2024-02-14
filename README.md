@@ -43,7 +43,7 @@ In my academic and professional roles, I've led impactful projects like TriageOn
 
 [![AWS Lambda Frame Recognition](https://img.shields.io/badge/-AWS&nbsp;Lambda&nbsp;Frame&nbsp;Recognition-white?style=for-the-badge&logo=amazon-aws&logoColor=black)](https://github.com/shingu99/Frame-Recognition-using-AWS-Lambda)
 [![Star Wars Blog](https://img.shields.io/badge/-Star&nbsp;Wars&nbsp;Blog-white?style=for-the-badge&logo=starship&logoColor=black)](https://github.com/shingu99/Star-wars-blog)
-[![Value Based Sudoku](https://img.shields.io/badge/-Value&nbsp;Based&nbsp;Sudoku-white?style=for-the-badge&logo=square&logoColor=black)](https://github.com/shingu99/Value-based-Sudoku)
+[![Sudoku](https://img.shields.io/badge/-Sudoku-white?style=for-the-badge&logo=square&logoColor=black)](https://github.com/shingu99/Sudoku)
 [![HPCL LPG gas](https://img.shields.io/badge/-HPCL&nbsp;LPG&nbsp;Website-white?style=for-the-badge&logo=shell&logoColor=black)](https://github.com/shingu99/webdev1)
 
 ### A little more about me...  
